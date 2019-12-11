@@ -9,10 +9,10 @@ The labeled dataset for Gunshot Direction Estimation Using Sensor IMU based Glov
     AccY– Accelerometer Y axis, \
     AccZ– Accelerometer Z axis, \
    MgX– Magnetometer X axis, \
-   MgY– Magnetometer X axis, \
-   MgZ– Magnetometer X axis, \
+   MgY– Magnetometer Y axis, \
+   MgZ– Magnetometer Z axis, \
    QMgX– Reference Magnetometer X axis, \
-   QMgY– Reference Target Magnetometer Accelerometer X axis,\ 
-   QMgZ– Reference Target Magnetometer Accelerometer X axis,\
+   QMgY– Reference Target Magnetometer Accelerometer Y axis,\ 
+   QMgZ– Reference Target Magnetometer Accelerometer Z axis,\
    Azimuth– Reference Target Magnetometer Azimuth Angel
     
