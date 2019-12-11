@@ -8,9 +8,9 @@
 #    AccX – Accelerometer X axis, 
 #    AccY– Accelerometer Y axis, 
 #    AccZ– Accelerometer Z axis, 
-   MgX– Magnetometer X axis, 
-   MgY– Magnetometer X axis, 
-   MgZ– Magnetometer X axis, 
+   MgX– Magnetometer X axis, \
+   MgY– Magnetometer X axis, \
+   MgZ– Magnetometer X axis, \
    QMgX– Reference Magnetometer X axis, 
    QMgY– Reference Target Magnetometer Accelerometer X axis, 
    QMgZ– Reference Target Magnetometer Accelerometer X axis, 
